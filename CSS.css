@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', Times, serif;
+    line-height: 0.6;
+    margin: 0;
+    font-weight: bold;
+}
+
+
+header,
+main,
+footer {
+    padding: 22px;
+
+}
+
+
+header {
+    background-color: #eb1818;
+}
